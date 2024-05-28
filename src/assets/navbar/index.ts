@@ -1,0 +1,1 @@
+export {default as main_pic} from "./logo.png"

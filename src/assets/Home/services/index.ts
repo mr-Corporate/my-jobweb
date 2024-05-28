@@ -1,0 +1,1 @@
+export {default as provide_img} from "./provide.png"
