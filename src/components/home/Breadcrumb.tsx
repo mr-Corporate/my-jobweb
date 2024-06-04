@@ -24,8 +24,8 @@ export default function Breadcrumb() {
  text-blue-950 font-bold py-4 px-6  border-blue-500 rounded flex justify-start mb-60">
   Support<ArrowForwardRoundedIcon/></button>
       </div>
-      <div className=" bg-slate-200 h-10 w-32 flex items-center  mb-12 font-bold text-blue-800 rounded-md">
-        <p>Our Services</p>
+      <div className=" flex items-center  mb-12  ">
+        <button className='bg-slate-200 px-2 py-3 font-bold text-cyan-700 rounded'>Our Services</button>
       </div>
       <h1 className="text-5xl mb-20 font-bold ">A ONE-STOP solution for all your requirement needs</h1> 
 
